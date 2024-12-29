@@ -2,6 +2,11 @@
 
 This project demonstrates the integration of **Power BI** with a machine learning model for predictive analytics and visualizations. The assignment focuses on using the **Addis Ababa Road Accident Dataset** to build a prediction model and connect it to Power BI for creating insightful dashboards.
 
+---
+## Dashboard Preview
+
+![BI Assignment Dashboard](dashboard.PNG)
+
 ## Project Overview
 
 The main goal of this project is to:
